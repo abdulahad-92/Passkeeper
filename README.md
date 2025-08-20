@@ -32,7 +32,7 @@ PassKeeper stands out for its simplicity, security, and modern aesthetics, makin
 ## 📢 Get Involved
 - **Try it out**: Install PassKeeper and share your feedback via GitHub Issues.
 - **Stay tuned**: Future updates may include cloud sync, multi-device support, or open-source release.
-- **Connect**: Follow Abdul on [GitHub](https://github.com/your-username) or reach out on [X](https://x.com/your-username) for updates.
+- **Connect**: Follow Abdul on [GitHub](https://github.com/abdulahad-92) or reach out on [X](https://x.com/your-username) for updates.
 
 ## 📜 License
 The PassKeeper binary is distributed under the MIT License. Source code is not public yet but may be released in the future.
